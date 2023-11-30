@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e537fa08-d02e-4ddd-86a0-8544132d5757" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/eight.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/eight.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/five.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/five.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/four.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/four.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/nine.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/nine.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/one.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/one.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/s.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/seven.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/seven.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/six.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/six.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/ten.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/ten.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/three.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/three.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/two.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/data/two.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingFake/dataset/pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingFake" beforeDir="false" afterPath="$PROJECT_DIR$/SingFake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingFake/dataset/separate.py" beforeDir="false" afterPath="$PROJECT_DIR$/SingFake/dataset/separate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingFake/dataset/split.py" beforeDir="false" afterPath="$PROJECT_DIR$/SingFake/dataset/split.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XN8YCGRMZiJaTIQVgWjGckxjrv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/amarneni/PycharmProjects/ai/SingFake/dataset/data&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Subversion.SSH&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SingFake/dataset/data" />
+      <recent name="$PROJECT_DIR$/SingFake/dataset/separated/mdx_extra/one" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SingFake/dataset/data" />
+      <recent name="$PROJECT_DIR$/SingFake/dataset/data/2" />
+      <recent name="$PROJECT_DIR$/SingFake/dataset/data/1" />
+      <recent name="$PROJECT_DIR$/SingFake/dataset/separated/mdx_extra/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.split">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pipeline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SingFake/dataset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingFake/dataset/pipeline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="separate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SingFake/dataset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingFake/dataset/separate.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/SingFake/dataset/data" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SingFake/dataset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingFake/dataset/split.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.split" />
+      <item itemvalue="Python.pipeline" />
+      <item itemvalue="Python.separate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.split" />
+        <item itemvalue="Python.separate" />
+        <item itemvalue="Python.pipeline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e537fa08-d02e-4ddd-86a0-8544132d5757" name="Changes" comment="" />
+      <created>1698458222047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698458222047</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SingFake/dataset/split.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SingFake/dataset/split.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SingFake/dataset/split.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SingFake/dataset/split.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SingFake/dataset/split.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SingFake/dataset/split.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
